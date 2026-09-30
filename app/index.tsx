@@ -1,4 +1,4 @@
-import { AppNavigation } from "@/navigation/AppNavigation";
+import { AppNavigation } from "@/presentation/navigation/AppNavigation";
 
 export default function Page() {
   return (

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1788993822407" clover="3.2.0">
+  <project timestamp="1788993822407" name="All files">
+    <metrics statements="35" coveredstatements="35" conditionals="4" coveredconditionals="4" methods="20" coveredmethods="20" elements="59" coveredelements="59" complexity="0" loc="35" ncloc="35" packages="2" files="8" classes="8"/>
+    <package name="domain.usecase">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="12" coveredmethods="12"/>
+      <file name="CreateTaskUseCase.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/domain/usecase/CreateTaskUseCase.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+      <file name="DeleteTaskUseCase.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/domain/usecase/DeleteTaskUseCase.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+      <file name="GetTaskByYdUseCase.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/domain/usecase/GetTaskByYdUseCase.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+      <file name="GetTaskUseCase.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/domain/usecase/GetTaskUseCase.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="12" type="stmt"/>
+      </file>
+      <file name="ToggleTaskCompletionUseCase.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/domain/usecase/ToggleTaskCompletionUseCase.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+      <file name="UpdateTaskUseCase.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/domain/usecase/UpdateTaskUseCase.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="8" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="presentation">
+      <metrics statements="24" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="TaskStore.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/presentation/TaskStore.ts">
+        <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="35" count="10" type="stmt"/>
+        <line num="36" count="10" type="stmt"/>
+        <line num="37" count="9" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+      </file>
+      <file name="TaskUiState.ts" path="/Users/ana.fagundes/Documents/react-native-projects/TaskManagerRN/TaskManager/src/presentation/TaskUiState.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -1,4 +1,4 @@
-import { Task } from "../core/data/model/Task";
+import { Task } from "../data/model/Task";
 
 export interface TaskUiState {
    tasks: Task[];
